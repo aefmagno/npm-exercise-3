@@ -17,4 +17,4 @@ To run the program, the user simply types: `node index argument`
     - result: `10 29 +`
 
 __IMPORTANT: arguments with the multiplication sign `*` should be wrapped inside a single quote.__
-Ex: `1+2'*'3 **`
+Ex: `1+2'*'3`
